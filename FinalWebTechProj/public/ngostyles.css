@@ -1,0 +1,56 @@
+.colored-section {
+    background-color: #a3d2ca;
+    color: #fff;
+}
+
+.navbar {
+    margin-top: 0;
+    background-color: #056676;
+}
+
+.container {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #5eaaa8;
+}
+
+.banner img {
+    margin: 0 auto;
+    width: 100%;
+    padding: 0;
+}
+
+hr {
+    border-top: 10px dotted #000;
+    width: 30%;
+    margin: auto;
+}
+
+.about {
+    margin-top: 10px;
+}
+
+.left {
+    margin-top: 50px;
+}
+
+img {
+    margin-bottom: 10px;
+}
+
+.aim {
+    height: 400px;
+    width: 400px;
+    margin: 20px;
+}
+
+.btn {
+    padding: 7% 15%;
+    margin: 10px;
+}
+
+.foot {
+    background-color: #343a40;
+}

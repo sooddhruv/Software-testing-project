@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    background-color: #07689f;
+}
+
+nav {
+    position: fixed;
+    background-color: #ffc93c;
+}
+
+.container {
+    background-color: #a2d5f2;
+}
+
+.left {
+    margin: 0;
+}
+
+.right {
+    margin: 0;
+}
+
+form {
+    margin: 40px 10px;
+}
+
+.box {
+    border-style: solid;
+    border-color: blue;
+    background-color: #40a8c4;
+    margin: 40px 5px;
+}
+
+.info {
+    padding: 15% 7%;
+}
+
+p {
+    padding: 5%;
+}
